@@ -1,0 +1,4 @@
+#!/bin/bash
+ech "school"
+#/bin/bash
+echo "School" 
